@@ -1,0 +1,20 @@
+# Mistral AI
+langchain-mistralai
+mistralai
+
+# LangChain + LCEL
+langchain
+langchain-core
+
+# LangGraph
+langgraph
+
+# Tavily
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
